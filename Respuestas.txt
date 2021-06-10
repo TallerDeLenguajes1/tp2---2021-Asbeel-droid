@@ -1,0 +1,4 @@
+Ejercicio 2
+f)
+No se puede ver el archivo tp2_1_2.cpp.
+En Git las Ramas son espacios o entornos independientes, por lo que los nuevos cambios que se realizen en cada una de ellas solo se pueden acceder desde la propia rama.
